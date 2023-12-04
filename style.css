@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 body {
     padding: 0;
     margin: 0;
@@ -52,7 +54,7 @@ ul.header-items > li:hover {
 }
 
 ul.header-items >li > a {
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 13px;
     font-style: normal;
     font-weight: 700;
@@ -85,7 +87,7 @@ ul.header-items > li > a:hover {
 }
 .small-title {
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -97,7 +99,7 @@ ul.header-items > li > a:hover {
 }
 .title {
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -109,7 +111,7 @@ ul.header-items > li > a:hover {
 .text {
     width: 340px;
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
@@ -129,7 +131,7 @@ ul.header-items > li > a:hover {
     height: 48px; 
     border: none;
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 13px;
     font-style: normal;
     font-weight: 700;
@@ -206,7 +208,7 @@ ul.header-items > li > a:hover {
 }
 .ZX9-titles > h2 {
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 46px;
     font-style: normal;
     font-weight: 700;
@@ -217,7 +219,7 @@ ul.header-items > li > a:hover {
 }
 .ZX9-titles > p {
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
@@ -231,7 +233,7 @@ ul.header-items > li > a:hover {
     flex-shrink: 0;
     background: #000;
     color: #FFF;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 13px;
     font-style: normal;
     font-weight: 700;
@@ -259,7 +261,7 @@ ul.header-items > li > a:hover {
     height: 90px;
     width: 450px;
     color: #d2d2d2;
-    font-family: Manrope;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
